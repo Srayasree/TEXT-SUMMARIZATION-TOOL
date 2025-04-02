@@ -7,3 +7,9 @@ The tool is designed to condense a longer piece of text into a shorter, more man
 
 ![image](https://github.com/user-attachments/assets/cc3e5b6f-f7d3-40ae-81e5-ff07d015c9c9)
 
+Company Name: Codetech It Solutions
+Name: Srayasree Dhar
+Intern Id: CT06WU06
+DOMAIN: AI.
+Duration:6 weeks.
+Mentor: Neela Santosh.
