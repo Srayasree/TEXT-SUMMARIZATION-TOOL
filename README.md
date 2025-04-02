@@ -3,4 +3,6 @@ The tool is designed to condense a longer piece of text into a shorter, more man
 
 ![image](https://github.com/user-attachments/assets/a8a3effd-4d56-4f80-9116-82b1fac06127)
 
+![image](https://github.com/user-attachments/assets/786c3e53-b01d-456c-834d-a74edbc33086)
+
 
